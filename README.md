@@ -25,7 +25,7 @@ Integrating the monthly datasets, to create a annual dataset.
 
 ### Snowflake Load:  
 
-Create a schema in the database, and staging table to load data to the database.
+Create a schema in the database, and staging table for yearly load => pushing data => to the database.
 
 
 
