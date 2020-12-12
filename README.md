@@ -20,7 +20,7 @@ We start by scraping the yearly data using the link to download yearly data. A z
 
 ### Processing:  
 
-Integrating the monthly datasets, to create a annual dataset.
+Integrating the monthly datasets, to create a yearly dataset.
 
 
 ### Snowflake Load:  
