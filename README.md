@@ -24,8 +24,7 @@ After the zip file gets downloaded, the zip file is moved to a landing directory
 
 ### Snowflake Load:  
 
-We create sql scripts to define table in the database(schema creation).We use the SnowSQL CLI service to bulk load the data in the staging table.
-Once the the data is loaded in the staging table it is pushed to the main table <= from the staging table on running the ```data_integration.sql```. 
+We create sql script ```biketrip_ddl.sql``` to define table in the database(schema creation).We use the SnowSQL CLI service to bulk load the data in the staging table(```staging.sql```).Once the the data is loaded in the staging table it is pushed to the main table <= from the staging table on running the ```data_integration.sql```. 
 
 
 
