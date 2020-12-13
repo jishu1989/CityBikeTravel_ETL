@@ -2,7 +2,7 @@
 
 ### Description:  
 
-City bike stations’ Origin-Destination (OD) data includes all trips made with city bikes of Helsinki and Espoo. The data includes information about trip’s origin and destination stations, start and end times, distance (in metres) as well as duration (in seconds).
+City bike stations’ Origin-Destination (OD) data includes all trips made with city bikes of Helsinki and Espoo. The data includes information about trip’s origin and destination stations, start and end times, distance (in metres) as well as duration (in seconds). In this project we design a microservice to scrape data from hsl weblink, process the data, and create a snowflake pipeline to load data in the cloud database. 
 
 
 ### Data Source:
